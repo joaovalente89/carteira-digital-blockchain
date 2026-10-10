@@ -44,6 +44,6 @@ Os ficheiros de dados (`*.priv`, `*.pub`, `*.blk`) são criados localmente na pr
 ## Autoria
 
 - João Valente
-- [nomes dos colegas de grupo]
+- Carlos Covão
 
-O núcleo da blockchain e as classes de segurança foram fornecidos pelo docente da unidade curricular, Prof. António Manso (IPT), como base para o trabalho.
+O núcleo da blockchain e as classes de segurança foram fornecidos pelo docente da unidade curricular, Prof. António Manso (UPT), como base para o trabalho.
