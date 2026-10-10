@@ -2,11 +2,11 @@
 
 Aplicação desktop em Java (Swing) que simula uma carteira digital de criptomoedas. Todas as transações ficam registadas numa blockchain com consenso **Proof of Stake**.
 
-Projeto de grupo desenvolvido na unidade curricular de **Programação Orientada a Objetos** da Licenciatura em Engenharia Informática (Instituto Politécnico de Tomar), 2025/2026.
+Projeto de grupo desenvolvido na unidade curricular de **Programação Orientada a Objetos** da Licenciatura em Engenharia Informática (Universidade Politécnica de Tomar), 2025/2026.
 
 ## Funcionalidades
 
-- **Registo e login de utilizadores.** Cada utilizador tem um par de chaves (criptografia de curva elítica). A chave privada é guardada cifrada com AES-256-GCM, a partir da password do utilizador.
+- **Registo e login de utilizadores.** Cada utilizador tem um par de chaves (criptografia de curva elítica).
 - **Carteira multimoeda:** BitCoin, Ether, Solana e TemplarCoin.
 - **Transferências entre utilizadores.** Cada transação é assinada digitalmente pelo remetente e guardada num novo bloco da blockchain. Antes de concluir, a aplicação verifica se o saldo é suficiente.
 - **Administrador.** O utilizador `SYSTEM` emite moedas e atribui-as aos restantes utilizadores.
